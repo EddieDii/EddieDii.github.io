@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eddiedii · Web &amp; Mobile Developer, all-around coder</title>
-    <link>http://localhost:1313/experience/</link>
+    <link>https://eddiedii.github.io/experience/</link>
     <description>Recent content on eddiedii · Web &amp; Mobile Developer, all-around coder</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eddiedii.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UI/UX Designer - Beijing Xiachufang Technology Co,Ltd.</title>
-      <link>http://localhost:1313/experience/xcf/</link>
+      <link>https://eddiedii.github.io/experience/xcf/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/xcf/</guid>
+      <guid>https://eddiedii.github.io/experience/xcf/</guid>
       <description>🏆 Awarded as an outstanding local app on the App Store in 2019 and was official recommended as a culinary video application. Awarded the Best Golden Rice Award on the Xiaomi App Store in 2019 Honoured with the 383rd Pea Pod Design Award Main Projects include: Lanfan App Led the design of the Lazy Food App, witnessing its growth from 0 to nearly ten million users. Continuously optimized user experience and visual presentation.</description>
     </item>
     <item>
       <title>UI Designer - Beijing Geshangtianfu Technology Co,Ltd.</title>
-      <link>http://localhost:1313/experience/gstf/</link>
+      <link>https://eddiedii.github.io/experience/gstf/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/gstf/</guid>
+      <guid>https://eddiedii.github.io/experience/gstf/</guid>
       <description>Main Projects include:&#xA;Geshang Finance App Responsible for Geshang Finance mobile UI design. Led the formulation of mobile design specifications, optimizing visual details and user experience. Yingma Fund App Responsible for UI design of the Yingma Fund App. Geshang Wealth Website Responsible for product design requirements for the website, expanding product functionality, and optimizing user experience. Responsible for visual optimization of the website, unifying controls for interfaces at the same level, and optimizing website details.</description>
     </item>
     <item>
       <title>UI Designer - Beijing Yiqimen Technology Co,Ltd.</title>
-      <link>http://localhost:1313/experience/yiqimen/</link>
+      <link>https://eddiedii.github.io/experience/yiqimen/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/yiqimen/</guid>
+      <guid>https://eddiedii.github.io/experience/yiqimen/</guid>
       <description>Main Projects include:&#xA;Qimen Maiyi iOS &amp;amp; WeChat &amp;amp; Business Management Backend Responsible for interactive prototypes and visual design of Qimen Maiyi mobile. Responsible for the design of the IP content management backend. Other Visual Design Needs Responsible for the visual design of promotional ads on LinkedIn for Microsoft Surface, launched in July 2017. Responsible for the visual design of retail H5, EDM, and materials for Microsoft Surface launched in June 2017.</description>
     </item>
   </channel>

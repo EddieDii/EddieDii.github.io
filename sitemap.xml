@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://eddiedii.github.io/experience/</loc>
     <lastmod>2018-09-11T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://eddiedii.github.io</loc>
     <lastmod>2018-09-11T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/xcf/</loc>
+    <loc>https://eddiedii.github.io/experience/xcf/</loc>
     <lastmod>2018-09-11T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/gstf/</loc>
+    <loc>https://eddiedii.github.io/experience/gstf/</loc>
     <lastmod>2017-09-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/yiqimen/</loc>
+    <loc>https://eddiedii.github.io/experience/yiqimen/</loc>
     <lastmod>2017-09-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://eddiedii.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://eddiedii.github.io/tags/</loc>
   </url>
 </urlset>
